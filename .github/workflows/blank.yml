@@ -39,5 +39,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_filter: pr
+          plugin_repositories: yes
           plugin_repositories_featured: git/git, eclipse-jgit/jgit
           plugin_repositories_order: featured, pinned, starred, random
