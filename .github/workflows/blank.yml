@@ -35,3 +35,5 @@ jobs:
           plugin_notable_indepth: yes
           plugin_activity: yes
           plugin_activity_skipped: keyu98/keyu98
+          plugin_activity_days: 10000
+          plugin_activity_filter: pr
