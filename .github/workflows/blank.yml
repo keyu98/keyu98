@@ -23,6 +23,9 @@ jobs:
           repositories_forks: yes
           base_indepth: yes
           plugin_lines: yes
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://kylez.org/feed.xml
 
       - name: Right Part
         uses: lowlighter/metrics@latest
