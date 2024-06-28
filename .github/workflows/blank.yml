@@ -24,7 +24,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: pr
+          plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_skipped: keyu98/keyu98
